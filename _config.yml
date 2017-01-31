@@ -73,3 +73,5 @@ defaults:
       lang: en
       layout: post
       type: posts
+
+theme: jekyll-theme-minimal
